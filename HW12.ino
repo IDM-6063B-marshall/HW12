@@ -1,7 +1,7 @@
 //Turn potentiometer all the way to the left
-//Press button 0
+//Press button 
 //Turn potentiometer all the way to the right
-//Press button 0 
+//Press button 
 
 //Success: green LED
 //Failure & default: red LED
